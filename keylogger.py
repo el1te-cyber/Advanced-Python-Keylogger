@@ -15,8 +15,7 @@ if ctypes.windll.shell32.IsUserAnAdmin() == 0:
 
 # Get the current user
 user = os.getlogin()
-# Create the directory to store logs (if you still want to keep logs locally)
-os.makedirs(f'C:\\Users\\{user}\\AppData\\Roaming\\Maintest', exist_ok=True)
+
 
 def get_active_window_title():
     """Get the title of the currently active window."""
