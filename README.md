@@ -15,3 +15,5 @@ Cons:
 2. It is very blatant because it does not have any other software in the script so all it does is log keys. This might arouse suspicion of the client.<br/>
 
 I am not responsible for any illegal/misuse of this educational project. This project is purely for educational and research purposes.
+
+Buy me a coffee: bc1qsuqaca066aa2llcwpadj2j49kfkz2mcn2gfpv7
